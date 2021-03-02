@@ -1,4 +1,4 @@
-# Sorting Algorithms Implementaion and Performance Measurement
+# Sorting Algorithms Implementation and Performance Measurement
 
 ## Implemented Algorithms
 * Merge Sort
