@@ -68,6 +68,7 @@ int main(int argc, char* argv[]){
     // }
     
     //Printing time taken by each sorting algorithm in ms 
+    std::cout << "InputSize of Vector : " << inputSize << std::endl; 
     std::cout << "MergeSort : " << rtMergeSort.count() << std::endl;
     std::cout << "HeapSort : " << rtHeapSort.count() << std::endl;
     std::cout << "InsertionSort : " << rtInsertionSort.count() << std::endl;
