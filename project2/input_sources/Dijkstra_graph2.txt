@@ -1,0 +1,20 @@
+6 18 U
+A B 10
+A C 20
+B A 10
+B D 50
+B E 33
+C A 20
+C D 20
+C E 33
+D B 50
+D C 33
+D E 20
+D F 2
+E B 10
+E C 33
+E D 20
+E F 1
+F D 2
+F E 1
+A
